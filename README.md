@@ -1,3 +1,5 @@
+**Este curso se retirará el  **30/4/2024**.  Una vez retirado el curso, se quitarán todos los repositorios de GitHub. Gracias.**
+
 # DP-500: Diseño e implementación de soluciones de análisis a escala empresarial mediante Microsoft Azure
 
 - **¿Es un MCT?** Consulte nuestra [guía de usuario de GitHub para MCT](https://microsoftlearning.github.io/MCT-User-Guide/).
