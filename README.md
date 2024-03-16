@@ -1,4 +1,4 @@
-**Este curso se retirará el  **30/4/2024**.  Una vez retirado el curso, se quitarán todos los repositorios de GitHub. Gracias.**
+**Este curso se retirará el  **30/4/2024**. Ya no se supervisará este repositorio en relación con problemas y solicitudes de incorporación de cambios. Una vez retirado el curso, se quitarán todos los repositorios de GitHub. Puede encontrar contenido relacionado en el [repositorio de Microsoft Fabric](https://github.com/MicrosoftLearning/mslearn-fabric).**
 
 # DP-500: Diseño e implementación de soluciones de análisis a escala empresarial mediante Microsoft Azure
 
