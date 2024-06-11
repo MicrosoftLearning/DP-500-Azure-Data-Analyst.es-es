@@ -4,7 +4,7 @@ lab:
   module: Setup your own environment
 ---
 
-# Configuración del entorno de laboratorio local
+# Configuración del entorno de laboratorio local 
 
 Lo ideal es completar estos laboratorios en un entorno de laboratorio hospedado. Si desea completarlos en su propio equipo, puede hacerlo instalando el software siguiente. Puede experimentar diálogos y comportamientos inesperados al usar su propio entorno. Debido a la amplia variedad de configuraciones locales posibles, el equipo del curso no puede cubrir problemas que puedan surgir en su propio entorno.
 
