@@ -14,7 +14,7 @@ En este laboratorio, mejorarás el rendimiento de un modelo compuesto con el est
 
 En este laboratorio, aprenderá a:
 
-- Establece el modo de almacenamiento dual.
+- Establecer el modo de almacenamiento dual.
 
 - Usa el Analizador de rendimiento para revisar las actividades de actualización.
 

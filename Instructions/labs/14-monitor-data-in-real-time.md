@@ -14,9 +14,9 @@ En este laboratorio configurarás un informe para que use la actualización auto
 
 En este laboratorio, aprenderá a:
 
-- Usa el Analizador de rendimiento para revisar las actividades de actualización.
+- Usar el analizador de rendimiento para revisar las actividades de actualización.
 
-- Configura la actualización automática de páginas.
+- Configurar la actualización automática de páginas.
 
 - Crea y usa la característica de detección de cambios.
 
@@ -68,7 +68,7 @@ En esta tarea usarás SQL Server Management Studio (SSMS) para configurar la bas
 
     ![](../images/dp500-monitor-data-in-real-time-image4.png)
 
-7. seleccione **Open**(Abrir).
+7. Seleccione **Open** (Abrir).
 
     ![](../images/dp500-monitor-data-in-real-time-image5.png)
 

@@ -139,7 +139,7 @@ En esta tarea agregarás una tabla que almacena los destinos de ventas procedent
 
     ![](../images/dp500-create-a-composite-model-image10.png)
 
-1. seleccione **Open**(Abrir).
+1. Seleccione **Open** (Abrir).
 
     ![](../images/dp500-create-a-composite-model-image11.png)
 

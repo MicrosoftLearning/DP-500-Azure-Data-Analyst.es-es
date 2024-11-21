@@ -8,7 +8,7 @@ lab:
 
 Azure Synapse Analytics se basa en un conjunto de funcionalidades escalable para admitir el almacenamiento de datos empresariales; incluidos el análisis de datos basados en archivos en un lago de datos, así como almacenes de datos relacionales a gran escala y las canalizaciones de transferencia y transformación de datos usadas para cargarlos. En este laboratorio, explorarás cómo usar un grupo de SQL dedicado en Azure Synapse Analytics para almacenar y consultar datos en un almacenamiento de datos relacional.
 
-Este laboratorio se tarda en completar **45** minutos aproximadamente.
+Este laboratorio tardará aproximadamente **45** minutos en completarse.
 
 ## Antes de empezar
 
@@ -25,9 +25,9 @@ En este ejercicio, usarás una combinación de un script de PowerShell y una pla
 
     ![Azure Portal con un panel de Cloud Shell](../images/cloud-shell.png)
 
-    > **Nota**: Si creaste anteriormente un Cloud Shell que usa un entorno de *Bash*, usa el menú desplegable situado en la parte superior izquierda del panel de Cloud Shell para cambiarlo a ***PowerShell***.
+    > **Nota**: si creaste anteriormente un Cloud Shell que usa un entorno de *Bash*, usa el menú desplegable situado en la parte superior izquierda del panel de Cloud Shell para cambiarlo a ***PowerShell***.
 
-3. Tenga en cuenta que puede cambiar el tamaño de Cloud Shell arrastrando la barra de separación en la parte superior del panel, o usando los iconos **&#8212;** , **&#9723;** y **X** en la parte superior derecha para minimizar, maximizar y cerrar el panel. Para obtener más información sobre el uso de Azure Cloud Shell, consulte la [documentación de Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/overview).
+3. Ten en cuenta que puedes cambiar el tamaño de Cloud Shell arrastrando la barra de separación en la parte superior del panel, o usando los iconos **&#8212;** , **&#9723;** y **X** en la parte superior derecha para minimizar, maximizar y cerrar el panel. Para obtener más información sobre el uso de Azure Cloud Shell, consulta la [documentación de Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/overview).
 
 4. En el panel de PowerShell, introduce los siguientes comandos para clonar este repositorio:
 
@@ -191,10 +191,10 @@ Otro requisito común al analizar grandes volúmenes de datos es agrupar los dat
     |Australia|2|SO74100|4|2,2900|2172278.7900|375.8918|
     |...|...|...|...|...|...|...|
     |Australia|5779|SO64284|1|2443.3500|2172278.7900|375.8918|
-    |Canada|1|SO66332|2|2,2900|563177.1000|157.8411|
-    |Canada|2|SO68234|2|2,2900|563177.1000|157.8411|
+    |Canadá|1|SO66332|2|2,2900|563177.1000|157.8411|
+    |Canadá|2|SO68234|2|2,2900|563177.1000|157.8411|
     |...|...|...|...|...|...|...|
-    |Canada|3568|SO70911|1|2443.3500|563177.1000|157.8411|
+    |Canadá|3568|SO70911|1|2443.3500|563177.1000|157.8411|
     |Francia|1|SO68226|3|2,2900|816259.4300|315.4016|
     |Francia|2|SO63460|2|2,2900|816259.4300|315.4016|
     |...|...|...|...|...|...|...|

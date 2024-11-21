@@ -93,7 +93,7 @@ En esta tarea iniciarás sesión en el servicio Power BI, iniciarás una licenci
 
     *Sugerencia: la experiencia del explorador web de Power BI se conoce como el **servicio Power BI**.*
 
-### Crear un área de trabajo
+### Creación de un área de trabajo
 
 En esta tarea crearás un área de trabajo.
 
@@ -221,7 +221,7 @@ En esta tarea validarás uno de los roles estáticos.
 
     ![](../images/dp500-enforce-model-security-image26.png)
 
-### Publicación del informe
+### Publicar el informe
 
 En esta tarea, publicará el informe.
 
