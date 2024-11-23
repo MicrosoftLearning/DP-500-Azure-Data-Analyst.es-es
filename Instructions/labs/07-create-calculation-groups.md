@@ -15,7 +15,7 @@ En este laboratorio, aprenderá a:
 
 -   Crear grupos de cálculo.
 -   Formatear elementos de cálculo.
--   Establecer prioridad del grupo de cálculo.
+-   Calcular prioridad de grupos de cálculo.
 -   Configurar objetos visuales para usar grupos de cálculo.
 
 ## Introducción
@@ -64,15 +64,15 @@ Descarga e instalación de Tabular Editor 2 para habilitar la creación de grupo
 
 1. Tras finalizar, selecciona **Abrir archivo** para ejecutar el instalador.
 
-    ![Interfaz gráfica de usuario, Descripción de aplicación generada automáticamente](../images/calculationgroups-downloadTE.png)
+    ![Interfaz gráfica de usuario/Descripción generada automáticamente de la aplicación.](../images/calculationgroups-downloadTE.png)
 
 1.  En la ventana de instalación de Tabular Editor, selecciona **Siguiente**.
 
-    ![Interfaz gráfica de usuario, Descripción de aplicación generada automáticamente](../images/image2.png)
+    ![Interfaz gráfica de usuario/Descripción generada automáticamente de la aplicación.](../images/image2.png)
 
 1.  En el paso **Contrato de licencia**, si estás de acuerdo, selecciona **Acepto** y después **Siguiente**.
 
-    ![Interfaz gráfica de usuario, Descripción de aplicación generada automáticamente](../images/image3.png)
+    ![Interfaz gráfica de usuario/Descripción generada automáticamente de la aplicación.](../images/image3.png)
 
 1.  En el paso **Seleccionar carpeta de instalación**, selecciona **Siguiente**.
 
@@ -104,7 +104,7 @@ Ahora abrirás una solución de Power BI Desktop desarrollada previamente.
 
 6.  Selecciona la pestaña de cinta **Herramientas externas**.
 
-    ![Interfaz gráfica de usuario, Descripción de aplicación generada automáticamente](../images/image7.png)
+    ![Interfaz gráfica de usuario/Descripción generada automáticamente de la aplicación.](../images/image7.png)
 
 7.  Observa que puedes iniciar Tabular Editor desde esta pestaña de cinta.
 
@@ -146,7 +146,7 @@ Crea tres medidas relacionadas con las ventas como preparación para la creació
 
 1.  En el panel **Datos**, haz clic con el botón derecho del ratón en la tabla **Ventas** y después selecciona **Nueva medida**.
 
-    ![Interfaz gráfica de usuario, Descripción de aplicación generada automáticamente](../images/image13.png)
+    ![Interfaz gráfica de usuario/Descripción generada automáticamente de la aplicación.](../images/image13.png)
 
 2.  En la barra de fórmulas (situada debajo de la cinta), reemplaza el texto por la siguiente definición de medida y después presiona **Entrar**.
 
@@ -158,7 +158,7 @@ Crea tres medidas relacionadas con las ventas como preparación para la creació
 
 3.  En la cinta contextual **Herramientas de medición**, dentro del grupo **Formato**, establece las posiciones decimales en **2**.
 
-    ![Interfaz gráfica de usuario, Descripción de aplicación generada automáticamente](../images/image14.png)
+    ![Interfaz gráfica de usuario/Descripción generada automáticamente de la aplicación.](../images/image14.png)
 
 4.  Cree y aplique un formato similar a una segunda medida denominada **Cost** mediante la siguiente definición:
 
@@ -174,7 +174,7 @@ Crea tres medidas relacionadas con las ventas como preparación para la creació
 
 6.  En el panel **Datos**, haz clic con el botón derecho en el campo **Importe de ventas** y después selecciona **Ocultar**.
 
-    ![Interfaz gráfica de usuario, Descripción de aplicación generada automáticamente](../images/image15.png)
+    ![Interfaz gráfica de usuario/Descripción generada automáticamente de la aplicación.](../images/image15.png)
 
 7.  Oculte también el campo **Total Product Cost**.
 
@@ -218,11 +218,11 @@ Usa el Tabular Editor para crear el grupo de cálculo **Inteligencia de tiempo**
 
 6.  En el panel **Propiedades** (ubicado en la esquina inferior derecha), selecciona la propiedad **Nombre** y, después, cámbiale el nombre por **Cálculo de tiempo** 
 
-    ![Interfaz gráfica de usuario, Descripción de aplicación generada automáticamente](../images/image20.png)
+    ![Interfaz gráfica de usuario/Descripción generada automáticamente de la aplicación.](../images/image20.png)
 
 7.  Para crear un elemento de cálculo, haga clic con el botón derecho en la tabla **Inteligencia de tiempo** y selecciona **Crear nuevo**\>**Elemento de cálculo**.
 
-    ![Interfaz gráfica de usuario, Descripción de aplicación generada automáticamente](../images/image21.png)
+    ![Interfaz gráfica de usuario/Descripción generada automáticamente de la aplicación.](../images/image21.png)
 
 8.  En el panel de la izquierda, reemplaza el nombre predeterminado por **Actual** y después presiona **Entrar**.
 
@@ -288,7 +288,7 @@ Descripción generada automáticamente](../images/image25.png)
 
 16. Para guardar los cambios en el modelo de Power BI Desktop, en el menú **Archivo**, selecciona **Guardar**.
 
-    ![Interfaz gráfica de usuario, Descripción de aplicación generada automáticamente](../images/image26.png)
+    ![Interfaz gráfica de usuario/Descripción generada automáticamente de la aplicación.](../images/image26.png)
 
     **Sugerencia:***también es posible seleccionar el botón de la barra de herramientas o presionar **Ctrl+S**.*
 
@@ -320,7 +320,7 @@ Ahora modificarás el visual de matriz para usar la columna **cálculo del tiemp
 
 3.  Desde el panel **Datos**, desde dentro de la tabla **Ventas**, arrastra el campo **Ventas** al depósito **Valores**.
 
-    ![Interfaz gráfica de usuario, Descripción de aplicación generada automáticamente](../images/image31.png)
+    ![Interfaz gráfica de usuario/Descripción generada automáticamente de la aplicación.](../images/image31.png)
 
 4.  Desde el panel **Datos**, desde dentro de la tabla **Inteligencia de tiempo**, arrastra el campo **Cálculo de tiempo** al depósito **Columnas**.
 
@@ -439,7 +439,7 @@ Descripción generada automáticamente](../images/image43.png)
 
 3.  En el panel **Propiedades**, establezca la propiedad **Calculation Group Precedence** en **20**.
 
-    ![Interfaz gráfica de usuario, Descripción de aplicación generada automáticamente](../images/image44.png)
+    ![Interfaz gráfica de usuario/Descripción generada automáticamente de la aplicación.](../images/image44.png)
 
     *Cuanto mayor sea el valor, mayor será la prioridad de aplicación. Por lo tanto, primero se aplica el grupo de cálculo con mayor prioridad.*
 

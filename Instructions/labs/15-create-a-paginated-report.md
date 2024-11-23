@@ -145,7 +145,7 @@ En esta tarea, configurará el encabezado del informe.
 
 15. En la ventana **Abrir**, ve a la carpeta **D:\DP500\Allfiles\15\Assets** y, después, selecciona el archivo **AdventureWorksLogo.jpg**.
 
-16. seleccione **Open**(Abrir).
+16. Seleccione **Open** (Abrir).
 
 17. En la ventana **Propiedades de la imagen**, selecciona **Aceptar**.
 
@@ -229,7 +229,7 @@ En esta tarea, crearás un origen de datos y un conjunto de datos para recuperar
 
 13. En la ventana **Importar consulta**, ve hasta la carpeta **D:\DP500\Allfiles\15\Assets** y, después, selecciona el archivo **SalesOrder.sql**.
 
-14. seleccione **Open**(Abrir).
+14. Seleccione **Open** (Abrir).
 
 15. En el cuadro **Consulta**, revise la consulta y asegúrese de desplazarse hacia abajo hasta la parte inferior del texto de la consulta.
 
@@ -334,7 +334,7 @@ En esta tarea, finalizará el diseño de la región de encabezado del informe co
     |  **Propiedad**| **Valor** |
     | --- | --- |
     |  Posición > Ubicación > Izquierda| 0 |
-    |  Posición > Ubicación > Superior| 0,5 |
+    |  Posición > Ubicación > Superior| 0.5 |
     |  Posición > Tamaño > Ancho| 4 |
     |  Posición > Tamaño > Alto| 0,25 |
 
@@ -532,8 +532,7 @@ En esta tarea, dará formato a la región de datos de la tabla.
     |  **Propiedad**| **Valor** |
     | --- | --- |
     |  Relleno > BackgroundColor| DarkGreen (Sugerencia: Desplace el cursor sobre cada color para mostrar su nombre). |
-    |  Fuente > Color| Blanco
-           |
+    |  Fuente > Color| Blanco |
     |  Fuente > Fuente > FontWeight| Negrita |
 
 

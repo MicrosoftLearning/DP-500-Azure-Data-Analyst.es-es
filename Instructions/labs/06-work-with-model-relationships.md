@@ -10,13 +10,13 @@ lab:
 
 **El tiempo estimado para completar el laboratorio es de 45 minutos.**
 
-En este laboratorio, trabajarás con relaciones de modelo específicamente para abordar la necesidad de dimensiones realizadoras de roles. Implicará trabajar con relaciones activas e inactivas, así como funciones de expresiones de análisis de datos (DAX) que modifican el comportamiento de las relaciones.
+En este laboratorio, trabajarás con relaciones de modelo específicamente para abordar la necesidad de dimensiones realizadoras de roles. Implicará trabajar con relaciones activas e inactivas, así como funciones de Data Analysis Expressions (DAX) que modifican el comportamiento de las relaciones.
 
 En este laboratorio, aprenderá a:
 
-- Interpretación de las propiedades de relación en el diagrama del modelo.
+- Interpretar las propiedades de relación en el diagrama del modelo.
 
-- Configurar las propiedades de relación.
+- Establecer propiedades de relación.
 
 - Uso de las funciones DAX que modifiquen el comportamiento de las relaciones.
 
@@ -157,7 +157,7 @@ En esta tarea, modificarás el estado activo de dos relaciones.
 
     ![](../images/dp500-work-with-model-relationships-image16.png)
 
-4. Seleccione **Cerrar**.
+4. Seleccione **Close** (Cerrar).
 
     ![](../images/dp500-work-with-model-relationships-image17.png)
 

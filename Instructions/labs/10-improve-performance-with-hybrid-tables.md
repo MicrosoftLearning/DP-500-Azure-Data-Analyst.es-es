@@ -162,7 +162,7 @@ En esta tarea, iniciarás sesión en el servicio Power BI e iniciarás una licen
 
     *Sugerencia: la experiencia del explorador web de Power BI se conoce como el **servicio Power BI**.*
 
-### Crear un área de trabajo
+### Creación de un área de trabajo
 
 En esta tarea crearás un área de trabajo.
 
@@ -607,15 +607,19 @@ En esta tarea, agregarás un pedido a la base de datos.
 
     ![](../images/dp500-improve-performance-with-hybrid-tables-image71.png)
 
-9. Revisa el script.
+9. Cambia el contexto de la base de datos de `master` a `AdventureWorksDW2022-DP500` mediante el menú desplegable de la barra de herramientas de SQL Server Management Studio.
+
+    ![](../images/dp500-improve-performance-with-hybrid-tables-image72a.png)
+   
+10. Revisa el script.
 
     *Este script inserta un único orden en la tabla **FactInternetSales** con hoy como fecha de pedido.*
 
-10. Para ejecutar un script, en la barra de herramientas, selecciona **Ejecutar** (o presiona **F5**).
+11. Para ejecutar un script, en la barra de herramientas, selecciona **Ejecutar** (o presiona **F5**).
 
     ![](../images/dp500-improve-performance-with-hybrid-tables-image72.png)
 
-11. Para cerrar el archivo, en el menú **Archivo**, selecciona **Cerrar**.
+12. Para cerrar el archivo, en el menú **Archivo**, selecciona **Cerrar**.
 
 ### Actualizar el informe
 

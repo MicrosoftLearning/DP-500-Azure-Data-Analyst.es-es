@@ -14,9 +14,9 @@ En este laboratorio, crearás un conjunto de datos de Power BI especializado que
 
 En este laboratorio, aprenderá a:
 
-- Crear una conexión dinámica.
+- Creación de una conexión dinámica.
 
-- Crear un modelo de DirectQuery local.
+- Creación de un modelo de DirectQuery local.
 
 - Usar la vista de linaje para detectar recursos de Power BI dependientes.
 

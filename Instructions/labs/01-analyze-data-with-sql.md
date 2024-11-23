@@ -25,9 +25,9 @@ En este ejercicio usarás una combinación de un script de PowerShell y una plan
 
     ![Azure Portal con un panel de Cloud Shell](../images/cloud-shell.png)
 
-    > **Nota**: Si creaste anteriormente un Cloud Shell que usa un entorno de *Bash*, usa el menú desplegable situado en la parte superior izquierda del panel de Cloud Shell para cambiarlo a ***PowerShell***.
+    > **Nota**: si creaste anteriormente un Cloud Shell que usa un entorno de *Bash*, usa el menú desplegable situado en la parte superior izquierda del panel de Cloud Shell para cambiarlo a ***PowerShell***.
 
-3. Tenga en cuenta que puede cambiar el tamaño de Cloud Shell arrastrando la barra de separación en la parte superior del panel, o usando los iconos **&#8212;** , **&#9723;** y **X** en la parte superior derecha para minimizar, maximizar y cerrar el panel. Para obtener más información sobre el uso de Azure Cloud Shell, consulte la [documentación de Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/overview).
+3. Ten en cuenta que puedes cambiar el tamaño de Cloud Shell arrastrando la barra de separación en la parte superior del panel, o usando los iconos **&#8212;** , **&#9723;** y **X** en la parte superior derecha para minimizar, maximizar y cerrar el panel. Para obtener más información sobre el uso de Azure Cloud Shell, consulta la [documentación de Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/overview).
 
 4. En el panel de PowerShell, escribe los siguientes comandos para clonar este repositorio:
 
@@ -306,7 +306,7 @@ Al definir un origen de datos externo en una base de datos, puedes usarlo para h
     WHERE orders.filepath(1) = '2019'
     ```
 
-### Crear una tabla externa
+### Creación de una tabla externa
 
 El origen de datos externo facilita el acceso a los archivos del lago de datos, pero la mayoría de los analistas de datos que usan SQL están acostumbrados a trabajar con tablas de una base de datos. Afortunadamente, también puedes definir formatos de archivo externos y tablas externas que encapsulan conjuntos de filas de archivos en tablas de base de datos.
 

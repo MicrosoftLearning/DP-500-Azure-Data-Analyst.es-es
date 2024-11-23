@@ -28,14 +28,14 @@ En este ejercicio, prepara el entorno.
 
    > **Nota**: Si ya cargaste datos en Azure Synapse Analytics mediante un clon de Git, puedes omitir esta tarea y continuar con **Configuración de Power BI.**
 
-1. Inicia sesión en [Azure Portal](https://portal.azure.com) con la información de inicio de sesión que se encuentra en la pestaña Recursos del lado derecho de la máquina virtual.
+1. Inicia sesión en [Azure Portal](https://portal.azure.com) con las credenciales de tu organización (o las que se te hayan proporcionado).
 2. Usa el botón **[\>_]** situado a la derecha de la barra de búsqueda en la parte superior de la página para crear una nueva instancia de Cloud Shell en Azure Portal, para lo que deberás seleccionar un entorno de ***PowerShell*** y crear almacenamiento si se solicita. Cloud Shell proporciona una interfaz de línea de comandos en un panel situado en la parte inferior de Azure Portal, como se muestra a continuación:
 
     ![Azure Portal con un panel de Cloud Shell](../images/cloud-shell.png)
 
-    > **Nota**: Si creaste anteriormente un Cloud Shell que usa un entorno de *Bash*, usa el menú desplegable situado en la parte superior izquierda del panel de Cloud Shell para cambiarlo a ***PowerShell***.
+    > **Nota**: si creaste anteriormente un Cloud Shell que usa un entorno de *Bash*, usa el menú desplegable situado en la parte superior izquierda del panel de Cloud Shell para cambiarlo a ***PowerShell***.
 
-3. Tenga en cuenta que puede cambiar el tamaño de Cloud Shell arrastrando la barra de separación en la parte superior del panel, o usando los iconos **&#8212;** , **&#9723;** y **X** en la parte superior derecha para minimizar, maximizar y cerrar el panel. Para obtener más información sobre el uso de Azure Cloud Shell, consulte la [documentación de Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/overview).
+3. Ten en cuenta que puedes cambiar el tamaño de Cloud Shell arrastrando la barra de separación en la parte superior del panel, o usando los iconos **&#8212;** , **&#9723;** y **X** en la parte superior derecha para minimizar, maximizar y cerrar el panel. Para obtener más información sobre el uso de Azure Cloud Shell, consulta la [documentación de Azure Cloud Shell](https://docs.microsoft.com/azure/cloud-shell/overview).
 
 4. En el terminal escribe el siguiente comando para clonar este repositorio:
 
@@ -85,7 +85,7 @@ En esta tarea, establecerás las opciones de Power BI.
 
 2. Selecciona **X**, situada en la esquina superior derecha, para cerrar la ventana de introducción.
 
-3. En la esquina superior derecha de Power BI Desktop, si aún no has iniciado sesión, selecciona **Iniciar sesión**. Usa las credenciales del laboratorio para completar el proceso de inicio de sesión.
+3. En la esquina superior derecha de Power BI Desktop, si aún no has iniciado sesión, selecciona **Iniciar sesión**. Utiliza las credenciales de tu organización (o las credenciales de laboratorio que se te hayan proporcionado) para completar el proceso de inicio de sesión.
 
 4. Se te redirigirá a la página de registro de Power BI en Microsoft Edge. Selecciona **Continuar** para completar el registro.
 
@@ -401,9 +401,9 @@ En esta tarea, crearás cinco consultas de Power Query que se cargarán cada una
 
 - **EnglishProductName** como **Producto**
 
-- **Product Details.EnglishProductCategoryName** como **Subcategoría**
+- **Product Details.EnglishProductCategoryName** como **Category**
 
-- **Detalles del producto.** por **Categoría**
+- **Product Details.EnglishProductSubcategoryName** como **SubCategory**
 
 45. Elimine todas las columnas, excepto las siguientes:
 
